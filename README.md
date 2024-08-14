@@ -1,5 +1,5 @@
 # CSD-380 DevOps
 
-##Contributors
+## Contributors
 - Greih Murray
 - Sue Sampson
