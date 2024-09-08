@@ -1,0 +1,115 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.12">
+  <diagram name="Page-1" id="cdd0LDk7jHOcvcfnZaW-">
+    <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bhKhmG8R7w0dXQiZ1aVx-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="200" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="bhKhmG8R7w0dXQiZ1aVx-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="40" width="200" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="bhKhmG8R7w0dXQiZ1aVx-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="40" width="200" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="bhKhmG8R7w0dXQiZ1aVx-4" value="Early Afternoon" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="560" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bhKhmG8R7w0dXQiZ1aVx-5" value="Dinner" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="560" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bhKhmG8R7w0dXQiZ1aVx-6" value="Chores" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="560" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bhKhmG8R7w0dXQiZ1aVx-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bhKhmG8R7w0dXQiZ1aVx-7" target="bhKhmG8R7w0dXQiZ1aVx-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bhKhmG8R7w0dXQiZ1aVx-7" value="Leave work" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bhKhmG8R7w0dXQiZ1aVx-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bhKhmG8R7w0dXQiZ1aVx-8" target="bhKhmG8R7w0dXQiZ1aVx-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bhKhmG8R7w0dXQiZ1aVx-8" value="Drive home" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bhKhmG8R7w0dXQiZ1aVx-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bhKhmG8R7w0dXQiZ1aVx-9" target="bhKhmG8R7w0dXQiZ1aVx-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bhKhmG8R7w0dXQiZ1aVx-9" value="Walk dog" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bhKhmG8R7w0dXQiZ1aVx-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bhKhmG8R7w0dXQiZ1aVx-10" target="bhKhmG8R7w0dXQiZ1aVx-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bhKhmG8R7w0dXQiZ1aVx-10" value="Clean litter box" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bhKhmG8R7w0dXQiZ1aVx-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bhKhmG8R7w0dXQiZ1aVx-11" target="bhKhmG8R7w0dXQiZ1aVx-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bhKhmG8R7w0dXQiZ1aVx-11" value="Do dishes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bhKhmG8R7w0dXQiZ1aVx-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bhKhmG8R7w0dXQiZ1aVx-12" target="bhKhmG8R7w0dXQiZ1aVx-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bhKhmG8R7w0dXQiZ1aVx-12" value="Take out the trash" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bhKhmG8R7w0dXQiZ1aVx-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bhKhmG8R7w0dXQiZ1aVx-13" target="bhKhmG8R7w0dXQiZ1aVx-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bhKhmG8R7w0dXQiZ1aVx-13" value="Vacuum" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bhKhmG8R7w0dXQiZ1aVx-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bhKhmG8R7w0dXQiZ1aVx-14" target="bhKhmG8R7w0dXQiZ1aVx-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bhKhmG8R7w0dXQiZ1aVx-14" value="Decide what to have" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bhKhmG8R7w0dXQiZ1aVx-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bhKhmG8R7w0dXQiZ1aVx-15" target="bhKhmG8R7w0dXQiZ1aVx-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bhKhmG8R7w0dXQiZ1aVx-15" value="Gather ingredients" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bhKhmG8R7w0dXQiZ1aVx-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bhKhmG8R7w0dXQiZ1aVx-16" target="bhKhmG8R7w0dXQiZ1aVx-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bhKhmG8R7w0dXQiZ1aVx-16" value="Prep ingredients" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bhKhmG8R7w0dXQiZ1aVx-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bhKhmG8R7w0dXQiZ1aVx-17" target="bhKhmG8R7w0dXQiZ1aVx-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bhKhmG8R7w0dXQiZ1aVx-17" value="Preheat stove/oven" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bhKhmG8R7w0dXQiZ1aVx-18" value="Cook" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bhKhmG8R7w0dXQiZ1aVx-30" value="40 Minutes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="630" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bhKhmG8R7w0dXQiZ1aVx-31" value="80 Minutes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="630" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bhKhmG8R7w0dXQiZ1aVx-32" value="70 Minutes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="630" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bhKhmG8R7w0dXQiZ1aVx-33" value="Estimated time: 190 Minutes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="720" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bhKhmG8R7w0dXQiZ1aVx-34" value="Optimizations:&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Early Afternoon: N/A&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Chores: Doing dishes and vacuuming first would allow all trash to in the the trash can prior to taking it out. &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Would also allow for a single trip to the trash for both the trash bag and the litter. Potential time &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;save of 5 minutes&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Dinner: Deciding ahead of time could likely save 10 minutes, and starting to preheat the stove/oven prior to &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;beginning ingredient prep could likely save up to 20 minutes as the oven can preheat while &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;prepping. Total time save ~30 minutes&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="80" y="780" width="600" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="bhKhmG8R7w0dXQiZ1aVx-35" value="Estimated time with optimizations: 155 minutes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="990" width="320" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
